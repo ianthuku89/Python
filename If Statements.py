@@ -1,4 +1,4 @@
-#Basic if statements
+#Basic if statements using boolean values
 is_male = True
 is_tall = False
 
